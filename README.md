@@ -52,7 +52,7 @@ export OC_USERNAME=openshift-username
 export OC_PASSWORD=openshift-password
 
 export NEXUS_USER=jenkins@devops.azure
-export NEXUS_PASSWORD=J3nk1ns4zur3
+export NEXUS_PASSWORD=123456
 ```
 
 ### Windows:
